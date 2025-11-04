@@ -28,7 +28,7 @@ My goal is to build **production-grade applications** that balance **speed, scal
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" height="45" title="PyTorch" />
 </p>
 
-#### ☁️ Cloud, DevOps & Infrastructure
+#### ☁️ Cloud, DevOps 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git" />
 </p>
