@@ -30,7 +30,7 @@ My goal is to build **production-grade applications** that balance **speed, scal
 
 #### ☁️ Cloud, DevOps & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,githubactions,linux,git" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git" />
 </p>
 
 #### 🧰 Databases & Tools
