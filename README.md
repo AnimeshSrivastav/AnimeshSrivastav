@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Animesh Srivastav</h1>
-<h3 align="center">🚀 Full-Stack Developer | DevOps | Data Science | Deep learning</h3>
+<h3 align="center">🚀 Full-Stack Developer | Data Science | Deep learning</h3>
 
 ---
 
