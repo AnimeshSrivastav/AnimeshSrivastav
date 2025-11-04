@@ -43,7 +43,7 @@ My goal is to build **production-grade applications** that balance **speed, scal
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/animeshsrivastav" target="_blank">
+  <a href="https://www.linkedin.com/in/imanimesh" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="mailto:animesh.sriv09@gmail.com" target="_blank">
